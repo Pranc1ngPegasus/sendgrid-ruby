@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+[2020-09-16] Version 6.3.5
+--------------------------
+**Library - Chore**
+- [PR #339](https://github.com/sendgrid/sendgrid-ruby/pull/339): Added rubocop configs and changed source files with rubocop "offenses". Thanks to [@douglaslise](https://github.com/douglaslise)!
+- [PR #338](https://github.com/sendgrid/sendgrid-ruby/pull/338): Refactor getters and setters to use ruby accessors. Thanks to [@douglaslise](https://github.com/douglaslise)!
+
+**Library - Docs**
+- [PR #332](https://github.com/sendgrid/sendgrid-ruby/pull/332): Add Email activity API Documentation. Thanks to [@dhoeric](https://github.com/dhoeric)!
+
+
 [2020-08-19] Version 6.3.4
 --------------------------
 **Library - Docs**
